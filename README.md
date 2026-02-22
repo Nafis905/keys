@@ -3,11 +3,11 @@
 # Usage
 
 ```bash
-croot && git clone https://github.com/ProjectInfinity-X/vendor_infinity-priv_keys-template vendor/infinity-priv/keys
+croot && git https://github.com/Nafis905/keys.git vendor/lineage-priv/keys
 ```
 
 ```bash
-cd vendor/infinity-priv/keys
+cd vendor/lineage-priv/keys
 ```
 
 ```
